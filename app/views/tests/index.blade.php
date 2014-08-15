@@ -1,0 +1,1 @@
+C:\xampp\htdocs\bimareport\app/views/labs/index.blade.php

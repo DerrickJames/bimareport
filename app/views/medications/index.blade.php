@@ -1,0 +1,1 @@
+C:\xampp\htdocs\bimareport\app/views/medications/index.blade.php
